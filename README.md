@@ -1,9 +1,45 @@
-﻿<div align="center">
+<div align="center">
+
+<h3 dir="rtl">بسم الله الرحمن الرحيم</h3>
+
+<h3 dir="rtl">والصلاة والسلام على نبينا محمد</h3>
+
+<h4 dir="rtl">أداة أوقات الصلاة · Awqat Salaat</h4>
+
+<p dir="rtl"><a href="#العربية">العربية</a> · <a href="README.ar.md">النسخة العربية الكاملة</a></p>
+
+<p><a href="#english">English</a> · <a href="#supported-platforms">Supported Platforms</a> · <a href="#installation">Installation</a></p>
+
+</div>
+
+<div dir="rtl">
+
+## العربية
+
+<img alt="الصورة الرئيسية" src="images/ar.png">
+
+هذه أداة إسلامية بسيطة خاصة بنظام ويندوز والتي تعرض وقت الصلاة القادمة إلى جانب العد العكسي على شريط المهام وهذا لمساعدة المستخدم على تتبع أوقات الصلوات.
+
+الأداة تستطيع عرض أوقات الصلوات الخاصة باليوم بأكمله وتقوم بالتحديث تلقائيا لعرض أوقات اليوم الموالي عندما يدخل وقت آخر صلاة (العشاء).
+
+الأداة تدعم أيضا الإشعار المرئي عندما يقترب وقت الصلاة القادمة من حد قابل للضبط.
+
+الشرح الكامل بالعربية، مع التثبيت والصور: [النسخة العربية](README.ar.md).
+
+</div>
+
+> [!CAUTION]
+> <p dir="rtl">الغاية الأساسية من هذه الأداة هو الحصول على فكرة حول ما إذا كانت الصلاة القادمة قريبة أم لا بطريقة بسيطة دون الحاجة إلى الضغط أو فتح أي شيء. فالبرغم من أن أغلب الأوقات المقدمة من طرف خدمات واجهة برمجة التطبيقات هي تقريبا دقيقة إلا أنه لا يمكن ضمان حصول ذلك دائما، خاصة مع صلاة المغرب. لذلك <b>لا تعتمد</b> على الأداة للحصول على الوقت المضبوط خاصة لأداء الشعائر كالصيام وإقامة الصلوات مباشرة عند دخول وقتها.</p>
+
+---
+
+## English
+
+<div align="center">
 	<img alt="hero image" src="images/en.png" />
 </div>
 
-النسخة العربية متوفرة [هنا](README.ar.md)
-# Awqat Salaat Widget [![GitHub Release](https://img.shields.io/github/v/release/Khiro95/Awqat-Salaat?include_prereleases&label=Release)](https://github.com/Khiro95/Awqat-Salaat/releases)
+**Awqat Salaat Widget** [![GitHub Release](https://img.shields.io/github/v/release/Khiro95/Awqat-Salaat?include_prereleases&label=Release)](https://github.com/Khiro95/Awqat-Salaat/releases)
 
 This is a simple Islamic Windows widget that shows the time of the next prayer, alongside a countdown, on the taskbar in order to help the user keep tracking of prayer times.
 
